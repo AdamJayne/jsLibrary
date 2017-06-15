@@ -176,7 +176,7 @@ for(var h in hotels){
 				}
 			}
 		}
-	}
+	};
 
 	var Timmy = new addPerson("Timmy Two Toes", 45, ["Tears of the Sun", "Hello Vietnam", "Flags of our Fathers"], 6.5, 230);
 	var Rick = new addPerson("Rick Sanchez", 56, ["Two Brothers", "The Fleeb and the Plumbus", "Tears of the Sun"], 6, 150);

@@ -12,6 +12,8 @@
 	! Not
 	!= Not equal to
 
+	?: ternary operators
+
 */
 
 console.log(1 > 3);
