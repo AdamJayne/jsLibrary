@@ -137,7 +137,7 @@ for(var h in hotels){
 	function getEyeColor(){
 		return person.eyeColor;
 	}
-
+	
 	//Gold
 	var childOfPerson = {}
 
@@ -147,7 +147,7 @@ for(var h in hotels){
 		}
 	}
 
-	inherit();
+	inherit(person);
 	console.log(childOfPerson)
 
 	childOfPerson.age = 2;
